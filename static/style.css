@@ -1,0 +1,56 @@
+/* HTML5: */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+ display: block;
+} 
+
+html {
+  font-size: 12px;
+  font-family: sans-serif;
+  color: #333333;
+}
+main {
+  margin: 2.5% 0.5%;
+  padding: 20px 5px;
+  background: #EEEEEE;
+  border-radius: 10px;
+  font-size: 1.3em;
+  text-align: center;
+}
+
+header {
+  margin: 20px auto;
+  font-size: 2.3em;
+}
+
+#img-div {
+  background-color: white;
+  padding: 20px;
+}
+#image {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  display: block;
+}
+#img-caption {
+  text-align: left;
+}
+
+ul {
+  margin: 20px auto;
+  max-width: 500px;
+  text-align: left;
+}
+li {
+  margin: 10px auto;
+}
+blockquote {
+  margin: 20px auto;
+  max-width: 500px;
+  padding: 0px 20px;
+  text-align: left;
+  font-style: italic;
+}
+footer{
+  text-align: center;
+}
